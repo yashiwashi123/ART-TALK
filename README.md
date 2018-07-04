@@ -10,8 +10,7 @@ For thoughtful discussions, information about artists, and keeping up with the a
 
 __A LOT__
 
-1.Firgure out error I've been getting when creating a form for create new topics 
-	1. also add ability to reply to posts
+1. also add ability to reply to posts
 
 2. Add Sign Up/ Login Page
 	1. add email verification
