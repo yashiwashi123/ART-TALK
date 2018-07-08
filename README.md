@@ -12,7 +12,7 @@ __A LOT__
 
 1. also add ability to reply to posts
 
-2. Add Sign Up/ Login Page
+2. Add Sign Up/ Login Page - IN PROGRESS
 	1. add email verification
 
 3. Add ability to upload images
